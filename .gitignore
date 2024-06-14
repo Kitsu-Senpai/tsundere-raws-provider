@@ -1,0 +1,6 @@
+# JetBrains
+.idea/
+*.sln.iml
+
+# vscode
+.vscode/

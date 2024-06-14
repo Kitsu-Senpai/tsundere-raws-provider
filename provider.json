@@ -1,0 +1,27 @@
+{
+  "name": "Tsundere-Raws",
+  "version": "1.0.0",
+  "description": "Tsundere-Raws provider",
+  "main": "main.js",
+  "repository": "https://github.com/Kitsu-Senpai/tsundere-raws-provider",
+  "audios": [
+    "Japanese"
+  ],
+  "subtitles": [
+    "French"
+  ],
+  "variables": [
+    {
+      "name": "title",
+      "value": "Re Monster"
+    },
+    {
+      "name": "season",
+      "value": "1"
+    },
+    {
+      "name": "regex",
+      "value": "Re Monster S([0-9]+)E([0-9]+)"
+    }
+  ]
+}
